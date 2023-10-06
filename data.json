@@ -1,0 +1,64 @@
+{
+  "jaket": [
+    {
+      "nama": "Nambomber",
+      "size": "Xxl",
+      "harga": "100.000",
+      "link": "#",
+      "foto": "https://tshirtbar.id/wp-content/uploads/2021/08/Bomber-Jenis-Jaket-Distro.png"
+    },
+    {
+      "nama": "Jaket bomber keren",
+      "size": "M, l, xl",
+      "harga": "100.000",
+      "link": "#",
+      "foto": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/7/19/0ca70f88-8ef8-46dd-8085-6700bf3f6ea0.jpg?ect=4g"
+    },
+    {
+      "nama": "Jaket bombers pria",
+      "size": "M, L, XL",
+      "harga": "100.000",
+      "link": "#",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfA9rs0LSebI-lN-IlnaynXSOZ3z6S76x_EA&usqp=CA"
+    },
+    {
+      "nama": "Jaket kekinian ",
+      "size": "M, L, X, XL",
+      "harga": "100.000",
+      "link": "#",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_V1dVh0qPjIEKGzhxNRCi64En1cZUVEw1A&usqp=CA"
+    }
+  ],
+  "jakethacker": [
+    {
+      "nama": "Jaket hacker keren",
+      "size": "M, L, XL",
+      "harga": "$10",
+      "link": "#",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd18F4GNUAjUXVudLyYnWO6b6qsy9pvlWuHA&usqp=CA"
+    },
+    {
+      "nama": "Jaket hacker anymouse",
+      "size": "M, L, X, XL",
+      "harga": "100.000",
+      "link": "#",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAL-CW5Imluo6CvC6lSF2xkeILZChwZ8Ieyw&usqp=CA"
+    }
+  ],
+  "celanahecker": [
+    {
+      "nama": "Celana dalam hacker keren",
+      "size": "M, L, X, XL",
+      "harga": "100.000",
+      "link": "#",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnI-5QmzIqU-sqiNxaXAUuxOu19ONhOEdUnw&usqp=CA"
+    },
+    {
+      "nama": "Celana hacker panjang",
+      "size": "M, L, X, XL",
+      "harga": "100.000",
+      "link": "#",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzk-t96znm-mA0jIGLG3LK79j1VjEWKSMO5w&usqp=CA"
+    }
+  ]
+}
